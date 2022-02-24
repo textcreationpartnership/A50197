@@ -1,0 +1,403 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prancing Swearer: or, perjury militant, an heroick poem. By C.M.</title>
+            <author>M. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50197</idno>
+            <idno type="STC">Wing M12</idno>
+            <idno type="STC">ESTC R223717</idno>
+            <idno type="EEBO-CITATION">99834002</idno>
+            <idno type="PROQUEST">99834002</idno>
+            <idno type="VID">38481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1836:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prancing Swearer: or, perjury militant, an heroick poem. By C.M.</title>
+                  <author>M. C.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. M. in Jewen-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "In that proud city, (to whose soveraign sway".</note>
+                  <note>With 10 lines of introductory verse, the first reading - "As Babylon of old was fertile grown".</note>
+                  <note>T. M. in the imprint = T. Milborn.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:38481:1" rendition="simple:additions"/>
+            <head>The Prancing Swearer; Or, Perjury Militant. An HEROICK Poem.</head>
+            <byline>By <hi>C. M.</hi>
+            </byline>
+            <lg>
+               <l>
+                  <figure/>
+               </l>
+               <l>
+                  <hi>AS</hi> Babylon <hi>of Old was fertile grown</hi>
+               </l>
+               <l>
+                  <hi>In Perjuries, enough to cloud the Sun;</hi>
+               </l>
+               <l>
+                  <hi>So has our Age (unhappy 'tis to tell!)</hi>
+               </l>
+               <l>
+                  <hi>To Her approach'd the neareſt Parallel.</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nheard of Villains, in our Matchleſs Age,</hi>
+               </l>
+               <l>
+                  <hi>Publickly came on the Tribunal Stage;</hi>
+               </l>
+               <l>
+                  <hi>Whoſe Poys'nous Breaths endeavour'd to defame</hi>
+               </l>
+               <l>
+                  <hi>The Firſt of Rank in Sacred Honour's Name:</hi>
+               </l>
+               <l>
+                  <hi>But as they are, ſo ever may they be,</hi>
+               </l>
+               <l>
+                  <hi>The ſcumm and dreggs of open Infamy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>IN that Proud City, (to whoſe Soveraign Sway</l>
+               <l>The Eaſtern World did humble Homage pay)</l>
+               <l>Imperious, Haughty <hi>Babilon,</hi> by name,</l>
+               <l>Dwel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, a man of <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+               <l>To Him, as well deſerving, was by Heav'n,</l>
+               <l>For a Chaſt Wife, the Fair <hi>Suſanna</hi> giv'n.</l>
+               <l>
+                  <hi>Suſanna</hi>! Whoſe unſpotted Life and Grace,</l>
+               <l>Shew'd her the Daughter of good <hi>Chelcias.</hi>
+               </l>
+               <l>In Piety matchleſs was the Parallel,</l>
+               <l>Whether the Child or Father did excel.</l>
+               <l>Beſides the Bleſſing of a Virtuous Mate,</l>
+               <l>Heav'n bleſs'd him with a Large and Fair Eſtate.</l>
+               <l>His goodly Houſe, his Grotts, his Garden fair,</l>
+               <l>Invites the <hi>Jews</hi> to walk and take the Air.</l>
+               <l>Where muſt they go, but to good <hi>Joacim</hi>?</l>
+               <l>He loves them All, as All he thinks loves him.</l>
+               <l>But Oh! no Pleaſures here below are found</l>
+               <l>To be compleat; but an Eternal Round</l>
+               <l>Of changes, flow: Thus does a ſudden Ebb</l>
+               <l>Stop <hi>Joacim's</hi> Tides of Joys oth' Marriage-Bed.</l>
+               <l>The Time was come, that <hi>Babylon</hi> muſt name</l>
+               <l>Two of her <hi>Elders,</hi> to ſupport the Fame</l>
+               <l>And Grandeur of her Laws; who Judge and Hear</l>
+               <l>All the Events of the Enſuing Year.</l>
+               <l>Choſen unhappy Choyce, cry'd Heav'n! who knew</l>
+               <l>That Puniſhments muſt <hi>Babylon</hi> purſue,</l>
+               <l>When her old Judges, judge not what is True.</l>
+               <l>At <hi>Joacim</hi>'s Houſe theſe Two did much abide,</l>
+               <l>And all depending ſuits of Law decide.</l>
+               <l>It chanc'd (the Buſineſs of the <hi>Hall</hi> being done,</l>
+               <l>And Crowds of People all returned home)</l>
+               <l>
+                  <hi>Suſanna</hi> in her Garden walk't alone:</l>
+               <l>The <hi>Elders</hi> this obſerv'd, (ſo ſharply bent</l>
+               <l>Are luſtful Eyes upon the <hi>Innocent</hi>;)</l>
+               <l>The more they gaze, the more they do deſire;</l>
+               <l>Her Beauty <hi>Fanns</hi> their Feavouriſh Coales of Fire:</l>
+               <l>Hot burns the Calenture; no Med'cin's found;</l>
+               <l>
+                  <hi>Suſanna</hi> gave, <hi>Suſanna</hi> cures the wound.</l>
+               <l>Theſe wretched <hi>Elders</hi> joyntly do conſpire</l>
+               <l>In chaſt <hi>Suſanna</hi>'s Arms to quench their Fire:</l>
+               <l>Secret they lie purdeiu, and watch the time</l>
+               <l>I'th' Garden, for to act their horrid Crime.</l>
+               <l>And loe! unguarded <hi>Innocence</hi> comes in,</l>
+               <l>(Her Maids attending,) thinking no deſign,</l>
+               <l>Was 'gainſt her Honour laid: (They only fear,</l>
+               <l>Whoſe Crowding Ills the ſting of Conſcience bear.)</l>
+               <l>The fervent day, fraught full with <hi>Phoebus</hi> Beams,</l>
+               <l>Invites <hi>Suſanna</hi> to the cooling Streams;</l>
+               <l>Willing to bath, thinking no mortal Eye</l>
+               <l>Uncover'd <hi>Innocence</hi> was there to ſpy.</l>
+               <l>Then on her Maids ſhe forthwith laid Commands,</l>
+               <l>To fetch her Oyl and Waſh-Balls for her Hands;</l>
+               <l>To ſhut the Garden Doors, leſt any one,</l>
+               <l>Whilſt bathing, ſhould approach to her alone:</l>
+               <l>The which, no ſooner ſhe to them had ſaid,</l>
+               <l>But her Commands were willingly obey'd.</l>
+               <l>No ſooner left, but from the ſecret Grove</l>
+               <l>The <hi>Elders</hi> ruſh, ſwell'd full with poys'nous Love</l>
+               <l>Tell her their purpoſe; bid conſent or dy;</l>
+               <l>Death is your Lott, except with us you ly:</l>
+               <l>If you refuſe, againſt you we will ſwear,</l>
+               <l>That a young Youth in your Embraces here</l>
+               <l>You did Careſs, all naked as you are.</l>
+               <l>She wept, and ſaid, What Land or Sea is free?</l>
+               <l>What Refuge now remains for Wretched me?</l>
+               <l>Surpriz'd! Betray'd! by Two curs'd <hi>Villains</hi> Rage!</l>
+               <l>Nought but Almighty Power can it aſſwage.</l>
+               <l>If I conſent, and grant you your deſire.</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>Oh! better 'tis to ſuffer by your Hands.</l>
+               <l>Than Violate th' Almighty's High Commands.</l>
+               <l>
+                  <hi>This ſaid,</hi> her Tears and Sorrows ſpake the reſt;</l>
+               <l>But nothing mov'd Compaſſion in their Breaſt:</l>
+               <l>Theſe <hi>Shamming Elders</hi> ſeize the <hi>Innocent</hi>;</l>
+               <l>And to take <hi>Life,</hi> and <hi>Honour,</hi> both are bent.</l>
+               <l>The noyſe being heard, the Servants all did run,</l>
+               <l>To know what in the Garden then was done:</l>
+               <l>The <hi>Elders</hi> blaſt <hi>Suſanna</hi> with a Ly;</l>
+               <l>(What <hi>Innocence</hi> is ſafe from <hi>Perjury?</hi>)</l>
+               <l>'Tis noys'd, and Rumours ſtill in telling grow;</l>
+               <l>As rolling Snow-Balls ever gather Snow.</l>
+               <l>The People flock where <hi>Joacim</hi> doth dwell,</l>
+               <l>To hear theſe <hi>Judges</hi> their <hi>Shamm</hi> ſtory tell:</l>
+               <l>Who, in the Preſence of the People, ſent</l>
+               <l>For Chaſt <hi>Suſanna,</hi> who was Innocent.</l>
+               <l>She comes, attended with a numerous Throng</l>
+               <l>Of Kindred, weeping at her wondrous Wrong:</l>
+               <l>Her ſelf ſerene, and beauteous to behold;</l>
+               <l>Fram'd by Angelick Art, in Heav'nly Mould.</l>
+               <l>But, Ah! what help can Beauty her afford?</l>
+               <l>Twas that, at firſt, unſheath'd the <hi>Villains</hi> ſword;</l>
+               <l>The ſharpeſt ſword, the <hi>Villains Perjur'd</hi> Word.</l>
+               <l>Laying their hands on fair <hi>Suſanna</hi>'s head,</l>
+               <l>In publick to the people, thus they ſaid:</l>
+               <l>As in good <hi>Joacim</hi>'s Garden we did walk,</l>
+               <l>Of Truth and Juſtice privately to talk;</l>
+               <l>This <hi>Woman,</hi> and her <hi>Maids,</hi> mean time came in;</l>
+               <l>(Alas! we little thinking 'twas to ſin:)</l>
+               <l>But her <hi>Attendants,</hi> ſhe ſoon ſent away,</l>
+               <l>And ſhut the Doors, leaſt they ſhould Her betray.</l>
+               <l>Then to Her came a <hi>Youth,</hi> whoſe luſtful Charms</l>
+               <l>She gladly claſp'd within her willing Arms.</l>
+               <l>This Wickedneſs we ſeeing with our Eyes,</l>
+               <l>'Cauſe 'twas <hi>Suſanna,</hi> ſtrangely did ſurprize;</l>
+               <l>Then made we haſt to ſeize th' Adulterous Man;</l>
+               <l>But he forc't ope' the Door, and from us ran.</l>
+               <l>
+                  <hi>Suſanna</hi> then we took, who now ſtands here;</l>
+               <l>But her Adulterer ſhe would not declare.</l>
+               <l>This, and much more, we both can Teſtify:</l>
+               <l>Therefore tis juſt, <hi>Suſanna</hi> forthwith Dy.</l>
+               <l>Now the Aſſembly did theſe Men believe,</l>
+               <l>Thinking that <hi>Judges</hi> never would deceive,</l>
+               <l>And ſpotleſs <hi>Innocence</hi> of Life bereave.</l>
+               <l>With a Loud Voice, <hi>Suſanna</hi> then did Cry;</l>
+               <l>O God, in whom alone's Omniſciency!</l>
+               <l>Loe, here I am, by Villains <hi>Perjury,</hi>
+               </l>
+               <l>For what I never did, Adjudg'd to dy.</l>
+               <l>Almighty Lord, Thou Knowſt my <hi>Innocence</hi>;</l>
+               <l>Thou Knowſt, they ſwear under a falſe Pretence;</l>
+               <l>And <hi>Perjury</hi>'s their only Evidence.</l>
+               <l>Th' Almighty heard the <hi>Innocent</hi> thus Cry;</l>
+               <l>And as they led her to her Deſtiny,</l>
+               <l>A Sprightly Youth cry'd out, (<hi>Daniel</hi> by name)</l>
+               <l>Why do you thus the <hi>Innocent</hi> defame?</l>
+               <l>The Crowding People turning, ask'd the Truth,</l>
+               <l>And Meaning of thoſe words, ſpoke by the Youth?</l>
+               <l>To whom; Your Folly I muſt plainly tell:</l>
+               <l>Are ye ſuch Fools, ye Sons of <hi>Iſrael,</hi>
+               </l>
+               <l>Thus raſhly to Condemn the <hi>Innocent,</hi>
+               </l>
+               <l>Without examining theſe men's Intent?</l>
+               <l>Return, return, unto the Judgement place;</l>
+               <l>Where you ſhall hear theſe wretched <hi>Elders</hi> caſe.</l>
+               <l>At which the <hi>Judges</hi> to him did reply,</l>
+               <l>Come publick ſpeak, where lies the villany</l>
+               <l>Put theſe, ſays he, in ſeperate Rooms aſide,</l>
+               <l>And the whole matter I will ſoon decide.</l>
+               <l>Then calls he one, and to Him thus did ſay;</l>
+               <l>Thy wicked <hi>Perjuries</hi> appear to day:</l>
+               <l>Thou haſt maliciouſly falſe Judgement given;</l>
+               <l>And black'd with Lies, what is as clear as Heav'n.</l>
+               <l>But hearken now to what the <hi>Lord</hi> doth ſay;</l>
+               <l>
+                  <hi>The Innocent and Juſt thou ſhalt not ſlay:</hi>
+               </l>
+               <l>Under what Tree did You this Woman ſee,</l>
+               <l>Committing with the <hi>Youth</hi> Adultery?</l>
+               <l>Who Anſwer made, under a <hi>MASTICK TREE.</hi>
+               </l>
+               <l>The Other being brought, thus he began;</l>
+               <l>Of <hi>Judah</hi> Thou art not, but <hi>Canaan</hi>;</l>
+               <l>Beauty to You has prov'd a Golden Bait;</l>
+               <l>And drawn upon You an Impending Fate.</l>
+               <l>Under what Tree did You this Woman ſee,</l>
+               <l>Committing with the Youth Adultery?</l>
+               <l>His anſwer was, under an <hi>OAKEN TREE.</hi>
+               </l>
+               <l>Your Oaths, ſays <hi>Dan'el,</hi> are more falſe than Hell</l>
+               <l>Could ever broach, to make a Parallel;</l>
+               <l>And Heav'ns Revenge has juſtly found this Day,</l>
+               <l>Your Crimes with equal Puniſhments to pay.</l>
+               <l>Th' amaz'd Aſſembly, with Confuſed Noiſe,</l>
+               <l>Prais'd her Deliverer with Heart and Voice.</l>
+               <l>The <hi>Elders</hi> from their Honours were diſplac'd,</l>
+               <l>Prov'd <hi>Perjur'd Men,</hi> abandon'd and diſgrac'd:</l>
+               <l>And as themſelves endeavour'd, were they ſerv'd;</l>
+               <l>Suffering that Day <hi>Suſanna</hi> was preſerv'd.</l>
+               <l>Then all Her <hi>Friends</hi> to God did Praiſes ſound,</l>
+               <l>'Cauſe no Diſhoneſty in Her was found.</l>
+               <l>And from that Day the People did Proclaim,</l>
+               <l>
+                  <hi>Daniel</hi> moſt Wiſe, and Chaſt <hi>Suſanna</hi>'s Fame.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>
+                  <hi>THus Reader, haſt thou ſeen the blaſted Times</hi>
+               </l>
+               <l>
+                  <hi>Of Iſraels Honour, and her cauſing Crimes.</hi>
+               </l>
+               <l>
+                  <hi>Here, not the Low and Humble doe deviſe</hi>
+               </l>
+               <l>
+                  <hi>To cutt off Life and Fame with Perjuries:</hi>
+               </l>
+               <l>
+                  <hi>But the great Rulers, (whoſe peculiar Care</hi>
+               </l>
+               <l>
+                  <hi>Is Mercy, Truth, and Juſtice) falſly ſwear.</hi>
+               </l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nhappy Land, and People; for what Curſe</hi>
+               </l>
+               <l>
+                  <hi>Than Perjury can fall on Nations Worſe?</hi>
+               </l>
+               <l>
+                  <hi>What ſhield has Innocence, if that the Fiend</hi>
+               </l>
+               <l>
+                  <hi>Will perjur'd be, Her ſelf for to defend?</hi>
+               </l>
+               <l>
+                  <hi>None, none, but Heav'n, could poor</hi> Suſanna <hi>find;</hi>
+               </l>
+               <l>
+                  <hi>To Innocence may Heav'n ſtill prove ſo kind:</hi>
+               </l>
+               <l>
+                  <hi>And for Revenge to perjur'd men, may Heav'n</hi>
+               </l>
+               <l>
+                  <hi>Decree the Elders portion to be giv'n.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Licenſed, and Entered according to Order.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. M.</hi> in <hi>Jewen-Street.</hi> 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
